@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+div{
+    width: 450px;
+    height: 220px;
+    background-image: url(./Assets/backgorund.png);
+    background-size: cover;
+    margin: 90px;
+    margin-left: 400px;
+    border:solid black;
+}
+
+h1{
+    font-size: 29px;
+    padding-top: 15px;
+    padding-left: 20px;
+    text-shadow: 8px 12px 12px gray;
+
+}
+
+a{
+    text-decoration: none; 
+    color: black;
+}
+
+ul{
+    margin-left: 10px;
+}
+
+li{
+    padding: 3px;
+    font-size: 22px;
+}
+
+.Instagram{
+    list-style-image: url(./Assets/instagram.png)
+
+}
+
+.Github{
+    list-style-image: url(./Assets/github\ \(3\).png);
+}
+
+.Linkedln{
+    list-style-image: url(./Assets/linkedin.png);
+}
+
