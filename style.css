@@ -5,10 +5,11 @@ body{
 div{
     width: 450px;
     height: 220px;
+    box-sizing: border-box;
     background-image: url(./Assets/backgorund.png);
     background-size: cover;
-    margin: 90px;
-    margin-left: 400px;
+    margin: auto;
+    margin-top: 10%;
     border:solid black;
 }
 
